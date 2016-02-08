@@ -7,7 +7,6 @@ writew 0xC05346F6 0x41c0
 #set 1920x1080 45fps to 24mbit 30Mbit
 writew 0xC0534996 0x41c0
 
-ls \ > d:\ls.log
 #sleep 8
 #t app key record RL
 sleep 3
